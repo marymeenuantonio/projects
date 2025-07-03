@@ -1,37 +1,57 @@
-# projects
-Projects done !!!
-## 📹 Project Demo Videos
-Click the thumbnail below to watch the demo video:
-## 📹 Project Demo- Autonomous Systems and Robotics 
+# 📁 Project Showcase – Mary Meenu Antony
 
-### 🔹 Full Demo-  Autonomous Driving with TurtleBot3 using the Robot Operating System (ROS)
-###• Developed software for TurtleBot3 using the Robot Operating System (ROS). 
-• Used Gazebo simulation tools for software testing and validation. 
-• Engineered algorithms for SLAM, lane detection, and traffic sign recognition using 
-LiDAR and RGB-D cameras. 
-• Developed sign detection algorithms for recognizing and responding to traffic signs 
-using camera and LiDAR data. 
-• Designed real-time mapping and navigation systems 
+Welcome! This repository highlights selected academic and personal projects that combine my interest in **software testing**, **automation**, **robotics** 🤖🧪💡
 
-[![Watch the video](https://img.youtube.com/vi/iKT8pq-iRQ8/0.jpg)](https://www.youtube.com/watch?v=iKT8pq-iRQ8)
+Here, you’ll find **videos, project reports, and visual demos** — not code, but clear outcomes of the systems I helped build and test.
 
-### 🔹 Short Demo #1 - Raspberry Pi Controlled Aeroponics 
-• Automated plant cultivation through Raspberry Pi, integrating misting mechanisms and 
-environmental monitoring sensors. 
-• Developed a user-friendly web interface for real-time control. 
-• Installed and configured sensors for precise environmental monitoring, enhancing data-driven 
-decision-making. 
+---
 
-[![Watch the video](https://img.youtube.com/vi/1gkRqnWmUyU/0.jpg)](https://www.youtube.com/shorts/1gkRqnWmUyU)
+## 🎬 Project Highlights
 
-### 🔹 Short Demo #2 - Dual Axis Photon Tracker using Raspberry Pi Pico 
-• Built a dual-axis solar tracker using Raspberry Pi Pico to optimize solar panel efficiency. 
-• Programmed servo motors and LDR sensors for precise sun tracking. 
-• Integrated four light-dependent resistors (LDRs) to detect the sun's position and provide real-time 
-data. 
-• Designed an LCD interface for real-time data display. 
+### 🤖 Autonomous Robot Navigation (ROS + SLAM)
+- **Role:** Software testing and robot behavior simulation
+- **Tools:** ROS, LiDAR, SLAM, Gazebo, Python
+- **Demo:** [Watch on YouTube](https://www.youtube.com/watch?v=iKT8pq-iRQ8)
+- **What I Did:** Designed real-time navigation and sign recognition system using sensor fusion and simulation.
 
-[![Watch the video](https://img.youtube.com/vi/uXlYx8z0waw/0.jpg)](https://www.youtube.com/shorts/uXlYx8z0waw)
+---
+
+### 🌞 Dual-Axis Solar Tracker (Raspberry Pi Pico)
+- **Role:** Hardware interfacing and real-time logic
+- **Tools:** Micropython, Servo motors, LDR sensors
+- **Demo:** [Watch Short Video](https://www.youtube.com/shorts/uXlYx8z0waw)
+- **What I Did:** Programmed servo motors to follow sunlight using 4 LDR sensors.
+
+---
+
+### 🌱 Raspberry Pi Aeroponics System
+- **Role:** System automation and monitoring
+- **Tools:** Raspberry Pi, Python, Web Dashboard
+- **Demo:** [Watch Short Video](https://www.youtube.com/shorts/1gkRqnWmUyU)
+- **What I Did:** Created a smart plant-growing system with automated misting and sensor feedback.
+
+---
+
+## 📄 Reports & Documentation
+
+All projects include:
+- 📑 Final reports
+- 📷 Photos or system diagrams
+- 🎥 Video walk-throughs
+
+Explore the folders to see how I approach system design, testing, and reporting.
+
+---
+
+## 💌 Contact
+
+📧 marymeenuantony@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/Mary%20MeenuAntonio)  
+💻 [GitHub](https://github.com/marymeenuantonio)
+
+---
+
+> ✨ *Thanks for visiting my portfolio! I treat bugs like puzzles, automation like art, and deadlines like mission timers 🚀💻*
 
 
 Add project videos to profile README
