@@ -21,6 +21,7 @@ environmental monitoring sensors.
 • Developed a user-friendly web interface for real-time control. 
 • Installed and configured sensors for precise environmental monitoring, enhancing data-driven 
 decision-making. 
+
 [![Watch the video](https://img.youtube.com/vi/1gkRqnWmUyU/0.jpg)](https://www.youtube.com/shorts/1gkRqnWmUyU)
 
 ### 🔹 Short Demo #2 - Dual Axis Photon Tracker using Raspberry Pi Pico 
@@ -29,5 +30,10 @@ decision-making.
 • Integrated four light-dependent resistors (LDRs) to detect the sun's position and provide real-time 
 data. 
 • Designed an LCD interface for real-time data display. 
+
 [![Watch the video](https://img.youtube.com/vi/uXlYx8z0waw/0.jpg)](https://www.youtube.com/shorts/uXlYx8z0waw)
+
+
+Add project videos to profile README
+
 
