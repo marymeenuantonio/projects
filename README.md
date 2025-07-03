@@ -1,6 +1,9 @@
 # projects
 Projects done !!!
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 📹 Project Demo
+
+Click the thumbnail below to watch the demo video:
+
+[![Watch the video](https://img.youtube.com/vi/iKT8pq-iRQ8/0.jpg)](https://www.youtube.com/watch?v=iKT8pq-iRQ8)
+
+
